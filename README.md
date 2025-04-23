@@ -1,4 +1,7 @@
- Professional WordPress Starter Theme
+
+
+
+Professional WordPress Starter Theme
 
 Clean, SEO-optimized foundation for custom WordPress projects
  Features
